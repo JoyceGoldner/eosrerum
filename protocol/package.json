@@ -1,0 +1,17 @@
+{
+  "name": "ts-alias-protocol",
+  "version": "0.1.21",
+  "description": "> TODO: description",
+  "author": "Vyacheslav Akhmechet <coffeemug@gmail.com>",
+  "homepage": "https://github.com/coffeemug/ts-alias",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "fp-ts": "^2.10.5",
+    "io-ts": "^2.2.16"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}

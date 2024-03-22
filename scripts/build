@@ -1,0 +1,4 @@
+#! /bin/bash
+cd ./protocol && npx tsc
+cd ../client && npx tsc
+cd ../server && npx tsc

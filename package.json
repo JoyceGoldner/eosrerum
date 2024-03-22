@@ -1,0 +1,19 @@
+{
+  "name": "eosrerum",
+  "workspaces": [
+    "client",
+    "server",
+    "protocol",
+    "integration-tests"
+  ],
+  "author": "ArnoldoDach",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoyceGoldner/eosrerum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoyceGoldner/eosrerum.git/issues"
+  },
+  "homepage": "https://github.com/JoyceGoldner/eosrerum.git",
+  "version": "1.0.0"
+}
